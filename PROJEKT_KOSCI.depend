@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548069599 source:/home/s2/2017/s301797/C++/2/PROJEKT_KOSCI/main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<string>
+
